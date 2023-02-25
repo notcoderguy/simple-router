@@ -1,0 +1,17 @@
+{
+    "name": "notcoderguy/simple-router",
+    "description": "Simple PHP router.",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vasu Grover",
+            "email": "notcoderguy@gmail.com"
+        }
+    ],
+    "require": {}
+}
